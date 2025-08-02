@@ -1,0 +1,10 @@
+{
+  "name": "mqtt-serial",
+  "description": "MQTT Serial extension for micro:bit + ESP8266 with custom blocks",
+  "dependencies": {},
+  "files": [
+    "main.ts",
+    "custom.ts"
+  ],
+  "public": true
+}
